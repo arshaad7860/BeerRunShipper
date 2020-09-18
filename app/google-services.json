@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "257029839075",
+    "firebase_url": "https://beerrun-9d5d7.firebaseio.com",
+    "project_id": "beerrun-9d5d7",
+    "storage_bucket": "beerrun-9d5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257029839075:android:feef3fd22c1ed9ea1a0dd6",
+        "android_client_info": {
+          "package_name": "com.example.beerrunclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257029839075-lhu84jqo421spdvhkoqim9ch6ehdr3tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beerrunclient",
+            "certificate_hash": "06165db9a3f53c78c4d712a4b056dc364df220ad"
+          }
+        },
+        {
+          "client_id": "257029839075-tn63udmn1qn4ifl7bgc1o2s28i9pcl8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqA5Oktlp_Xn15sJQq9OE0-2YqlT9-N28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257029839075-tn63udmn1qn4ifl7bgc1o2s28i9pcl8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257029839075:android:8464083d1da1aff51a0dd6",
+        "android_client_info": {
+          "package_name": "com.example.beerrunserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257029839075-kj3dm3js8sgta5dcc87nksf5onol1bqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beerrunserver",
+            "certificate_hash": "06165db9a3f53c78c4d712a4b056dc364df220ad"
+          }
+        },
+        {
+          "client_id": "257029839075-tn63udmn1qn4ifl7bgc1o2s28i9pcl8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqA5Oktlp_Xn15sJQq9OE0-2YqlT9-N28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257029839075-tn63udmn1qn4ifl7bgc1o2s28i9pcl8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257029839075:android:cb58ef76f280764e1a0dd6",
+        "android_client_info": {
+          "package_name": "com.example.beerrunshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257029839075-78m8aoa2ot08sbha6m4bjsslfnaidphg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beerrunshipper",
+            "certificate_hash": "06165db9a3f53c78c4d712a4b056dc364df220ad"
+          }
+        },
+        {
+          "client_id": "257029839075-tn63udmn1qn4ifl7bgc1o2s28i9pcl8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqA5Oktlp_Xn15sJQq9OE0-2YqlT9-N28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257029839075-tn63udmn1qn4ifl7bgc1o2s28i9pcl8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
